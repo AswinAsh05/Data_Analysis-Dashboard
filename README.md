@@ -20,7 +20,7 @@ This Power BI project provides deep insights into:
 
 ## 🔴 Live Dashboard
 
-👉 [Click here to view the live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiXXXXXXXXXXXXXXXXXXXXXX)
+👉 [Click here to view the live Power BI Dashboard](https://github.com/AswinAsh05/Data_Analysis-Dashboard/blob/main/APT%20Inst.pbix)
 
 ---
 
