@@ -46,7 +46,6 @@ This Power BI project provides deep insights into:
 
 ## 📈 Insights Derived
 
-- **Davinci Resolve**, **Adobe After Effects**, and **Autodesk 3Ds Max** were top revenue-generating courses.
 - Highest enrollment was in **November (116)**.
 - Majority of students were aged **20 to 29** (52.07%).
 - Significant contributions came from cities like **Chennai**, **Madurai**, and **Pondicherry**.
@@ -64,7 +63,7 @@ This Power BI project provides deep insights into:
 
 ## 📬 Contact
 
-If you liked this project or want a custom dashboard:
+If you liked this project or want a custom dashboards:
 
 📧 **Aswin Ash**  
 🔗 [LinkedIn](https://www.linkedin.com/in/aswinash05/)  
