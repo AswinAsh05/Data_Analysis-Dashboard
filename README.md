@@ -18,6 +18,12 @@ This Power BI project provides deep insights into:
 
 ---
 
+## 🔴 Live Dashboard
+
+👉 [Click here to view the live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiXXXXXXXXXXXXXXXXXXXXXX)
+
+---
+
 ## 📌 Key Features
 
 - **Interactive Filters** by Year, City, and Course
